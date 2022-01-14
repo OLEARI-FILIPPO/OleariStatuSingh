@@ -16,5 +16,10 @@ namespace Prova.View
         {
             InitializeComponent();
         }
+
+        private void MainView_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
